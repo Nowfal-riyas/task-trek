@@ -1,0 +1,10 @@
+.task_tag {
+  margin-inline: 5px;
+  font-size: 12px;
+  font-weight: 400;
+  padding: 4px 12px;
+  border-radius: 10px;
+  background-color: #fff9;
+  border: 1px solid #dfe3e6;
+  cursor: pointer;
+}
